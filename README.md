@@ -1,7 +1,7 @@
 # Revenue Insights for Hospitality Domain -
 # analysis using Power BI
-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjdiMmY0ZGYtYWI5YS00YWQzLWE0YTUtNTM4NjBjYzAwZjRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)  
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjdiMmY0ZGYtYWI5YS00YWQzLWE0YTUtNTM4NjBjYzAwZjRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)  
 Link to [Presentation Video](https://youtu.be/GFgT_Qvm3ZM?si=llb_eoQsva4h_96C)
 
 ## Problem Statement
